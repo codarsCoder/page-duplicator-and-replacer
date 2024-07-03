@@ -2,8 +2,8 @@
 /*
 Plugin Name: Page Duplicator and Replacer
 Description: Sayfaları çoğaltıp belirli kelimeleri değiştiren bir eklenti.
-Version: 1.6
-Author: Your Name
+Version: 1.0
+Author: Nurullah
 */
 
 // Sayfayı çoğaltma işlevi
